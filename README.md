@@ -5,11 +5,12 @@ Hi there! I’m a passionate software developer with a focus on creating efficie
 Laravel framework for robust web application development.
 WordPress and Blogger for versatile website creation.
 Integration of payment systems and generating detailed reports in Excel.
+
 💡 What drives me?
 Combining my language skills with programming to deliver innovative solutions and exploring the potential of AI to create smarter applications.
 
 📈 Current Projects:
-
 Library Management System.
 Clinic Management Platform with intuitive features.
+
 🔗 Let's connect, collaborate, and build something amazing together!
